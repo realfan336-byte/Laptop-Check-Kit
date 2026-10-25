@@ -1,3 +1,40 @@
-please Unzip the zip and Put the Others Bat file inside that folder where you unzipped and inside the Others bat files inside the folder where all the bat files are, I hope you understand my words and remember if you don't put them They might not work or even work and remember also put the others folder inside the main folder not just A Bat but also folders put them inside the main folder where are all Bat files are at.
-And a Last thing please try to not move you folder to another drive it's may cost some problems and Agree to The all programs and continue your windows security may come but Continue we Know it's Safe trust Safety 
-The Main Zip is [Laptop_Check_Kit.zip] It's contact an folder that folder is the Main folder and unzip others Zips and Put folders files inside the main folder [Laptop_Check_Kit.zip] folder. 
+Laptop Check Kit
+
+Thanks for downloading the Laptop Check Kit! This project contains BAT files, PowerShell scripts, and other tools for checking and diagnosing your Windows laptop.
+
+📁 How to Set Up the Files
+
+Please follow these steps carefully to make sure everything works correctly.
+
+1. Extract the main ZIP file. Start with "Laptop_Check_Kit.zip". Inside, you'll find the main "Laptop_Check_Kit" folder. Extract it first.
+
+2. Extract the other ZIP files. If you downloaded additional ZIP files, extract them too.
+
+3. Move the files into the main folder. Put the additional BAT files, PowerShell scripts, and other required files and folders inside the main "Laptop_Check_Kit" folder. Keep the original folder structure of the extracted files wherever possible.
+
+4. Keep everything together. Don't leave required scripts or folders outside the main folder. Some BAT files depend on other scripts or folders, so moving or missing files could cause errors or prevent certain tools from working.
+
+5. Avoid moving the folder to another drive. It's best to keep the folder in its original location after setup. Moving it to another drive may cause problems if any scripts rely on specific file paths.
+
+🛡️ Windows Security Warnings
+
+Windows Security or User Account Control (UAC) may show a warning when you run certain files.
+
+Please don't ignore security warnings automatically. Check which file is being run, review the script if possible, and only allow it to continue if you trust the file and understand what it does. If Windows detects a threat, stop and investigate it rather than bypassing the warning.
+
+⚠️ Important Reminder
+
+The main ZIP file is:
+
+"Laptop_Check_Kit.zip"
+
+Extract this file first, then extract the additional ZIP files and place their required contents inside the main "Laptop_Check_Kit" folder.
+
+Before running any BAT file, make sure its required scripts, folders, and other files are in the correct locations.
+
+I hope these instructions make the setup easier. Thanks for trying the Laptop Check Kit!
+
+— Bacon
+
+
+join discord: https://discord.gg/4KYGk6mP
