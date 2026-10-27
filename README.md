@@ -1,4 +1,4 @@
-Laptop Check Kit
+Laptop Check Kit - V1.0 ( This files version is 1.0 )
 
 Thanks for downloading the Laptop Check Kit! This project contains BAT files, PowerShell scripts, and other tools for checking and diagnosing your Windows laptop.
 
